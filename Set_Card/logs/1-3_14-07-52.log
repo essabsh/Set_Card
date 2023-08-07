@@ -1,0 +1,43 @@
+[14:07:53.020] [INFO   ] thread main starting.
+[14:07:53.020] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:07:53.035] [SEVERE ] configuration file was loaded from resources directory.
+[14:07:53.636] [INFO   ] thread dealer starting.
+[14:07:53.638] [INFO   ] Thread dealer starting.
+[14:07:53.638] [INFO   ] Thread player1starting.
+[14:07:53.638] [INFO   ] Thread player0starting.
+[14:07:53.641] [INFO   ] Thread computer-1 starting.
+[14:07:53.646] [INFO   ] Thread computer-0 starting.
+[14:07:53.662] [SEVERE ] placing card 2 in slot 3
+[14:07:53.694] [SEVERE ] placing card 41 in slot 10
+[14:07:53.709] [SEVERE ] placing card 50 in slot 5
+[14:07:53.725] [SEVERE ] placing card 52 in slot 4
+[14:07:53.740] [SEVERE ] placing card 15 in slot 11
+[14:07:53.756] [SEVERE ] placing card 18 in slot 8
+[14:07:53.772] [SEVERE ] placing card 20 in slot 1
+[14:07:53.787] [SEVERE ] placing card 77 in slot 9
+[14:07:53.803] [SEVERE ] placing card 57 in slot 2
+[14:07:53.819] [SEVERE ] placing card 44 in slot 0
+[14:07:53.834] [SEVERE ] placing card 29 in slot 6
+[14:07:53.850] [SEVERE ] placing card 11 in slot 7
+[14:07:53.850] [SEVERE ] updating countdown to 15000
+[14:07:53.850] [SEVERE ] player 2 placing token on slot 2
+[14:07:53.850] [SEVERE ] updating countdown to 15000
+[14:07:53.850] [SEVERE ] player 2 placing token on slot 6
+[14:07:53.850] [SEVERE ] player 2 placing token on slot 4
+[14:07:53.850] [SEVERE ] setting player 2 freeze to 3000
+[14:07:54.855] [SEVERE ] updating countdown to 14000
+[14:07:54.855] [SEVERE ] setting player 2 freeze to 2000
+[14:07:55.870] [SEVERE ] setting player 2 freeze to 1000
+[14:07:55.870] [SEVERE ] updating countdown to 13000
+[14:07:56.074] [SEVERE ] exit button pressed
+[14:07:56.074] [INFO   ] Thread player0 terminated.
+[14:07:56.074] [SEVERE ] updating countdown to 12000
+[14:07:56.875] [SEVERE ] setting player 2 freeze to 0
+[14:07:56.875] [INFO   ] Thread player1 terminated.
+[14:07:57.078] [SEVERE ] updating countdown to 11000
+[14:07:58.094] [SEVERE ] updating countdown to 10000
+[14:07:59.109] [SEVERE ] updating countdown to 9000
+[14:08:00.109] [SEVERE ] updating countdown to 8000
+[14:08:01.124] [SEVERE ] updating countdown to 7000
+[14:08:02.140] [SEVERE ] updating countdown to 6000
+[14:08:03.155] [SEVERE ] updating countdown to 5000

@@ -1,0 +1,51 @@
+[17:00:12.128] [INFO   ] thread main starting.
+[17:00:12.144] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[17:00:12.144] [SEVERE ] configuration file was loaded from resources directory.
+[17:00:12.639] [INFO   ] thread dealer starting.
+[17:00:12.645] [INFO   ] Thread dealer starting.
+[17:00:12.650] [INFO   ] Thread player0starting.
+[17:00:12.650] [INFO   ] Thread player1starting.
+[17:00:12.660] [SEVERE ] placing card 12 in slot 3
+[17:00:12.661] [SEVERE ] placing card 10 in slot 7
+[17:00:12.661] [SEVERE ] placing card 63 in slot 5
+[17:00:12.661] [SEVERE ] placing card 77 in slot 6
+[17:00:12.698] [SEVERE ] placing card 20 in slot 1
+[17:00:12.698] [SEVERE ] placing card 45 in slot 4
+[17:00:12.698] [SEVERE ] placing card 39 in slot 9
+[17:00:12.698] [SEVERE ] placing card 36 in slot 8
+[17:00:12.698] [SEVERE ] placing card 40 in slot 10
+[17:00:12.698] [SEVERE ] placing card 56 in slot 0
+[17:00:12.703] [SEVERE ] placing card 68 in slot 2
+[17:00:12.703] [SEVERE ] placing card 28 in slot 11
+[17:00:12.713] [SEVERE ] updating countdown to 10000
+[17:00:12.715] [SEVERE ] updating countdown to 10000
+[17:00:13.730] [SEVERE ] updating countdown to 9000
+[17:00:14.736] [SEVERE ] updating countdown to 8000
+[17:00:15.736] [SEVERE ] updating countdown to 7000
+[17:00:16.743] [SEVERE ] updating countdown to 6000
+[17:00:16.963] [SEVERE ] key 81 was pressed by player 1
+[17:00:16.963] [SEVERE ] player 1 placing token on slot 0
+[17:00:17.503] [SEVERE ] key 65 was pressed by player 1
+[17:00:17.503] [SEVERE ] player 1 placing token on slot 4
+[17:00:17.756] [SEVERE ] updating countdown to 5000
+[17:00:17.756] [SEVERE ] updating countdown to 5000
+[17:00:18.859] [SEVERE ] key 70 was pressed by player 1
+[17:00:18.859] [SEVERE ] player 1 placing token on slot 7
+[17:00:18.859] [SEVERE ] removing player 1 token from slot 0
+[17:00:18.875] [SEVERE ] removing card from slot 0
+[17:00:18.875] [SEVERE ] removing player 1 token from slot 4
+[17:00:18.875] [SEVERE ] removing card from slot 4
+[17:00:18.875] [SEVERE ] removing player 1 token from slot 7
+[17:00:18.875] [SEVERE ] removing card from slot 7
+[17:00:18.875] [SEVERE ] placing card 74 in slot 4
+[17:00:18.875] [SEVERE ] setting player 1 freeze to 0
+[17:00:18.875] [SEVERE ] placing card 48 in slot 7
+[17:00:18.875] [SEVERE ] setting player 1 freeze to 0
+[17:00:18.875] [SEVERE ] placing card 49 in slot 0
+[17:00:18.875] [SEVERE ] setting player 1 score to 1
+[17:00:18.875] [SEVERE ] updating countdown to 10000
+[17:00:18.891] [SEVERE ] updating countdown to 9990
+[17:00:19.897] [SEVERE ] updating countdown to 8990
+[17:00:20.897] [SEVERE ] updating countdown to 7990
+[17:00:21.903] [SEVERE ] updating countdown to 6990
+[17:00:22.904] [SEVERE ] updating countdown to 5990
